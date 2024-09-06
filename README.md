@@ -1,5 +1,4 @@
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/e5daafb4-0f44-4340-9070-d7487d87d844)
 
 Project Overview
 This project is a Full Stack JavaFX application designed to manage student records efficiently. It includes an interactive graphical user interface (GUI) built with JavaFX and styled using CSS, providing a modern, clean layout. The application is integrated with Firebase for user authentication, data storage, and file storage (profile pictures).
