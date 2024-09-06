@@ -4,7 +4,9 @@
 
 Project Overview
 
-This project is a Full Stack JavaFX application designed to manage student records efficiently. It includes an interactive graphical user interface (GUI) built with JavaFX and styled using CSS, providing a modern, clean layout. The application is integrated with Firebase for user authentication, data storage, and file storage (profile pictures). The following are the key features implemented:
+This project is a Full Stack JavaFX application designed to manage student records efficiently. It includes an interactive graphical user interface (GUI) built with JavaFX and styled using CSS, providing a modern, clean layout. The application is integrated with Firebase for user authentication, data storage, and file storage (profile pictures). 
+
+The following are the key features implemented:
 •	Menu Bar: Includes menus for file, edit, and theme functionalities.
 •	TableView: Displays student data such as ID, first name, last name, department, major, and email in a tabular format.
 •	CRUD Operations: Users can add, delete, and edit student records directly in the UI.
